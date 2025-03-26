@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Luke Fisher</h1>
 <h3 align="center">A passionate computer science student from Georgia</h3>
 
-<h1 align="center">- I’m currently working on: [Thermostats](https://github.com/acobrien/ThermoStats-webapp)</h1>
+<h3 align="center">- I’m currently working on: [Thermostats](https://github.com/acobrien/ThermoStats-webapp)</h3>
 
 - I’m currently learning: **Data Structures and Algorithms**
 
