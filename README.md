@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Luke Fisher</h1>
 <h3 align="center">A passionate computer science student from Georgia</h3>
 
-- -I’m currently working on: [Thermostats](https://github.com/acobrien/ThermoStats-webapp)
+- I’m currently working on: [Thermostats](https://github.com/acobrien/ThermoStats-webapp)
 
-- -I’m currently learning: **Data Structures and Algorithms**
+- I’m currently learning: **Data Structures and Algorithms**
 
-- -How to reach me: **luke.fisher.w@gmail.com**
+- How to reach me: **luke.fisher.w@gmail.com**
 
-- -Fun fact: **I'm fluent in French!**
+- Fun fact: **I'm fluent in French!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
