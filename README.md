@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Luke Fisher</h1>
+<h1 align="center">Hello! I'm Luke Fisher</h1>
 <h3 align="center">A passionate computer science student from Georgia</h3>
 
 - I’m currently working on: [Thermostats](https://github.com/acobrien/ThermoStats-webapp)
@@ -9,8 +9,8 @@
 
 - Fun fact: **I'm fluent in French!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/luke-w-fisher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luke-w-fisher" height="30" width="40" /></a>
 <a href="https://instagram.com/lukewfisher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukewfisher" height="30" width="40" /></a>
 </p>
