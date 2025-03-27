@@ -17,10 +17,10 @@
 ```
 <body>
     <p align="center">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Luke%20Fisher&font=Doto&weight=400&center=true&width=1500&height=100&color=8ab2d9&vCenter=true&repeat=false&size=65"/>
+        <img src="https://readme-typing-svg.demolab.com/?lines=Luke%20Fisher&font=Doto&weight=400&center=true&width=1500&height=100&color=4682B4&vCenter=true&repeat=false&size=65"/>
     </p>
     <p align="center">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Full%20time%20Computer-Science%20Student;Learning%20and%20coding%20are%20my%20passions!;Welcome!&font=Doto&weight=500&center=true&&width=1500&height=100&color=8ab2d9&vCenter=true&pause=2000&size=50"/>
+        <img src="https://readme-typing-svg.demolab.com/?lines=Full%20time%20Computer-Science%20Student;Learning%20and%20coding%20are%20my%20passions!;Welcome!&font=Doto&weight=500&center=true&&width=1500&height=100&color=4682B4&vCenter=true&pause=2000&size=50"/>
     </p>
 </body>
 
@@ -35,7 +35,7 @@
 
 <h3 align="center">Connect with me:</h3>
     <p align="center">
-    <a href="https://linkedin.com/in/luke-w-fisher" target="blank"> <img height="45" width="45" src="https://cdn.simpleicons.org/linkedin/black" /></a>
+    <a href="https://linkedin.com/in/luke-w-fisher" target="blank"> <img height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /></a>
     <a href="https://instagram.com/lukewfisher" target="blank"> <img height="45" width="45" src="https://cdn.simpleicons.org/instagram/steelblue" /></a>
 </p>
 
