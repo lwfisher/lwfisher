@@ -1,15 +1,38 @@
-<h1 align="left">Hello! I'm Luke Fisher</h1>
+<p align="center">
+    
+  ```
+                                      )      ((     (
+                                     (        ))     )
+                              )       )      //     (
+                         _   (              (     ~->>
+                  ,-----' |__,_~~___<'__`)-~__--__-~->> <
+                  | //  : | -__   ~__ o)____)),__ - '> >-  >
+                  | //  : |- \_ \ -\_\ -\ \ \ ~\_  \ ->> - ,  >>
+                  | //  : |_~_\ -\__\ \~'\ \ \, \__ . -<-  >>
+                  `-----._| `  -__`-- - ~~ -- ` --~> >
+                   _/___\_    //)_`//  | ||]
+             _____[_______]_[~~-_ (.L_/  ||
+            [____________________]' `\_,/'/
+              ||| /          |||  ,___,'./
+              ||| \          |||,'______|
+              ||| /          /|| I==||
+              || \       __/_||  __||__
+  ------------||-/-------`-._/||-o--o---o------------------------------------
+  ```
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Luke%20Fisher;Full%20time%20Computer-Science%20Student;Learning%20and%20coding%20are%20my%20passions!&font=Doto&center=true&width=1500&height=60&color=7293b3&vCenter=true&pause=500&size=60"/>
+</p>
+
 <h3 align="left">A passionate computer science student from Georgia</h3>
 
-<body>
-  <p align="left">- I’m currently working on: <a href="https://github.com/acobrien/ThermoStats-webapp"><b>Thermostats</b></a></p>
+<p align="left">- I’m currently working on: <a href="https://github.com/acobrien/ThermoStats-webapp"><b>Thermostats</b></a></p>
 
-  <p align="left">- I’m currently learning: <b>Data Structures and Algorithms</b></p>
+<p align="left">- I’m currently learning: <b>Data Structures and Algorithms</b></p>
 
-  <p align="left">- How to reach me: <a href="mailto:luke.fisher.w@gmail.com""><b>luke.fisher.w@gmail.com</b></a></p>
+<p align="left">- How to reach me: <a href="mailto:luke.fisher.w@gmail.com""><b>luke.fisher.w@gmail.com</b></a></p>
 
-  <p align="left">- Fun fact: <b>I'm fluent in French!</b></p>
-</body>
+<p align="left">- Fun fact: <b>I'm fluent in French!</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
