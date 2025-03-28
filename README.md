@@ -17,10 +17,16 @@
 ```
 <body>
     <p align="center">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Luke%20Fisher&font=Doto&weight=400&center=true&width=1500&height=100&color=4682B4&vCenter=true&repeat=false&size=65"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Luke%20Fisher&font=Doto&weight=400&center=true&width=1500&height=100&color=8ab2d9&vCenter=true&repeat=false&size=65" /> 
+        <img src="https://readme-typing-svg.demolab.com/?lines=Luke%20Fisher&font=Doto&weight=400&center=true&width=1500&height=100&color=274865&vCenter=true&repeat=false&size=65" />
+      </picture>
     </p>
     <p align="center">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Full%20time%20Computer-Science%20Student;Learning%20and%20coding%20are%20my%20passions!;Welcome!&font=Doto&weight=500&center=true&&width=1500&height=100&color=4682B4&vCenter=true&pause=2000&size=50"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Full%20time%20Computer- Science%20Student;Learning%20and%20coding%20are%20my%20passions!;Welcome!&font=Doto&weight=500&center=true&&width=1500&height=100&color=8ab2d9&vCenter=true&pause=2000&size=50" /> 
+        <img src="https://readme-typing-svg.demolab.com/?lines=Full%20time%20Computer-Science%20Student;Learning%20and%20coding%20are%20my%20passions!;Welcome!&font=Doto&weight=500&center=true&&width=1500&height=100&color=274865&vCenter=true&pause=2000&size=50"" />
+      </picture>
     </p>
 </body>
 
@@ -64,6 +70,9 @@
 
 <body>
     <p align="center">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;Merci+pour+votre+visite!&font=Doto&weight=500&center=true&&width=1500&height=100&color=8ab2d9&vCenter=true&pause=4000&size=50"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;Merci+pour+votre+visite!&font=Doto&weight=500&center=true&&width=1500&height=100&color=8ab2d9&vCenter=true&pause=4000&size=50" /> 
+        <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;Merci+pour+votre+visite!&font=Doto&weight=500&center=true&&width=1500&height=100&color=274865&vCenter=true&pause=4000&size=50" />
+      </picture>
     </p>
 </body>
