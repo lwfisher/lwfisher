@@ -62,9 +62,6 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/vuedotjs/steelblue" /> </a> 
 </p>
 
-## Visitors
-![Visitor Count](https://profile-counter.glitch.me/lwfisher/count.svg)
-
 <body>
     <p align="center">
       <picture>
