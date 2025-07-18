@@ -48,18 +48,18 @@
 <h3 align="center">Languages:</h3>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/javascript/steelblue" /> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/python/steelblue" /> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/html5/steelblue" /> </a> 
 </p>
 
-<h3 align="center">Tools and Environments:</h3>
+<h3 align="center">Tools, Environments, and Operating Systems:</h3>
 <p align="center">
   <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/eclipseide/steelblue" /> </a>
   <a href="https://gamemaker.io/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/gamemaker/steelblue" /> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/mysql/steelblue" /> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/pytorch/steelblue" /> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/vuedotjs/steelblue" /> </a> 
+  <a href="https://linux.org/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/linux/steelblue" /> </a>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/archlinux/steelblue" /> </a>
+  <a href="https://notion.com/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/notion/steelblue" /> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/github/steelblue" /> </a>
 </p>
 
 <body>
