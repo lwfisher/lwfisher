@@ -32,10 +32,9 @@
 </body>
 
 <menu>
-  <li> A passionate computer science student from Georgia!</li>
-  <li> I’m currently working on: <a href="https://github.com/acobrien/ThermoStats-webapp"><b>Thermostats</b></a></li>
-  <li> I’m currently learning: <b>Data Structures and Algorithms.</b></li>
-  <li> Fun fact: <b>I'm fluent in French!</b></li>
+  <li> NOTICE: This page is currently a work in progress</li>
+  <li> A passionate computer science student from Georgia.</li>
+  <li> Fun fact: <b>I'm fluent in French.</b></li>
   <li> How to reach me: <a href="mailto:luke.fisher.w@gmail.com""><b>luke.fisher.w@gmail.com</b></a></li>
 </li>
 </menu>
@@ -43,20 +42,17 @@
 <h3 align="center">Connect with me:</h3>
     <p align="center">
     <a href="https://linkedin.com/in/luke-w-fisher" target="blank"> <img height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /></a>
-    <a href="https://instagram.com/lukewfisher" target="blank"> <img height="45" width="45" src="https://cdn.simpleicons.org/instagram/steelblue" /></a>
 </p>
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/python/steelblue" /> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/html5/steelblue" /> </a> 
 </p>
 
 <h3 align="center">Tools, Environments, and Operating Systems:</h3>
 <p align="center">
   <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/eclipseide/steelblue" /> </a>
-  <a href="https://gamemaker.io/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/gamemaker/steelblue" /> </a> 
   <a href="https://linux.org/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/linux/steelblue" /> </a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/archlinux/steelblue" /> </a>
   <a href="https://notion.com/" target="_blank" rel="noreferrer"> <img height="45" width="45" src="https://cdn.simpleicons.org/notion/steelblue" /> </a>
